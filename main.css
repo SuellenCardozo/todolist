@@ -1,0 +1,36 @@
+body {
+  background-color: #1c1c1c;
+  color: #fff;
+  font-family: monospace;
+  padding: 24px;
+}
+.title {
+  font-size: 48px;
+  color: rgba(221, 23, 205, 0.774);
+}
+
+.list-item {
+  margin-bottom: 24px;
+  font-size: 24px;
+}
+
+input {
+  height: 32px;
+  background-color: transparent;
+  color: #fff;
+  border-color: rgba(221, 23, 205, 0.774);
+  border-radius: 4px;
+  font-size: 16px;
+  padding: 8px;
+}
+
+.add-task-button{
+  font-size: 16px;
+  padding: 14px;
+  background-color: rgba(255, 0, 212, 0.363);
+  border-width: 0px;
+  border-radius: 4px;
+  color: #f88bf8;
+  font-weight: bold;
+
+}
